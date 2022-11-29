@@ -11,14 +11,14 @@
 </head>
 
 <body>
-  <div>
-    <nav class="navbar navbar-dark bg-success">
-      <div class="container">
-        <?php include 'navbar.php' ?>
-      </div>
-    </nav>
-    <!-- <center> <img src="bg2.jpg" class="img-fluid" height="1700" widht="1700"> </center> -->
-  </div>
+  <!-- <div> -->
+  <!-- <nav class="navbar navbar-dark bg-success">
+      <div class="container"> -->
+  <?php include 'navbar.php' ?>
+  <!-- </div>
+    </nav> -->
+  <!-- <center> <img src="bg2.jpg" class="img-fluid" height="1700" widht="1700"> </center> -->
+  <!-- </div> -->
 </body>
 
 </html>
